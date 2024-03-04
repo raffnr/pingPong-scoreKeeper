@@ -5,7 +5,6 @@ const maxScore = document.querySelector('select');
 const btnOne = document.querySelector('.btn-one');
 const btnTwo = document.querySelector('.btn-two');
 
-
 let p1 = 0;
 let p2 = 0;
 
